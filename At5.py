@@ -8,8 +8,8 @@
     
 #Verde Eu:
 
-while True:
-    p=int(input("Quanto é 5 + 7?: "))
-    if p == 12:
-        print("Parabéns!!")
-        break
+# while True:
+#     p=int(input("Quanto é 5 + 7?: "))
+#     if p == 12:
+#         print("Parabéns!!")
+#         break
